@@ -27,7 +27,7 @@
 - Implementação de favoritos, histórico e envio por e-mail  
 - Estrutura modular e organizada  
 
-🔗 *link do repositório*
+🔗 *https://github.com/bielzkk123/projeto_flet_biscoito/tree/INCREMENTOS*
 
 
 ## 📫 Contato
